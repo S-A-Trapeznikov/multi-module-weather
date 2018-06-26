@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/ch-multi-spring" />
+    <ignored-resource url="" />
+    <ignored-resource url="http://www.springframework.org/schema/beans" />
+  </component>
+</application>
